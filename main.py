@@ -4,7 +4,7 @@
 # my_name = "Rehab"
 
 #how to print an aoutput to the terminal
-print("Rehab")
+print('Rehab')
 
 #how to declare or initiate a variable
 #name_of_the_variable = value
